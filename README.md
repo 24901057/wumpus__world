@@ -149,7 +149,7 @@ while(player):
 
 ## Output:
 
-
+![IMG](https://github.com/24901057/wumpus__world/blob/main/Screenshot%202026-03-16%20114005.png?raw=true)
 
 ## Result: 
 
