@@ -149,7 +149,6 @@ while(player):
 
 ## Output:
 
-<img width="841" height="678" alt="Image" src="https://github.com/user-attachments/assets/7aad18f8-c45d-4ae1-bc90-663cc52dbd69" />
 
 
 ## Result: 
